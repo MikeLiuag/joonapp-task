@@ -1,12 +1,12 @@
 1. Environment & Libraries
-   TypeScript
-   React Native - 0.74.1
-   Expo - 51.0.8
-   Expo-router - 3.5.14 (App navigation)
-   Tamagui - 1.98.1 (Styling library)
-   Zustand - 4.5.2 (State management)
-   ESLint, Prettier (Clean Codebase)
-   Jest, React-test-renderer (Testing)
+   - TypeScript
+   - React Native - 0.74.1
+   - Expo - 51.0.8
+   - Expo-router - 3.5.14 (App navigation)
+   - Tamagui - 1.98.1 (Styling library)
+   - Zustand - 4.5.2 (State management)
+   - ESLint, Prettier (Clean Codebase)
+   - Jest, React-test-renderer (Testing)
 
 2. Project Structure
    - app
